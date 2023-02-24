@@ -1,0 +1,22 @@
+# Ignore project root
+*
+
+# Except live folder
+!live
+
+!live/*
+
+# Except for docs folder
+
+!docs
+
+!docs/*
+
+# Except LICENSE, README.md, .gitignore
+
+!LICENSE
+
+!README.md
+
+!.gitignore
+
