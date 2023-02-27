@@ -12,11 +12,17 @@
 
 !docs/*
 
-# Except LICENSE, README.md, .gitignore
+# Except LICENSE, README.md, LIB.md, FILETREE.md, .gitignore
 
 !LICENSE
 
 !README.md
+
+!RESTRICTED.md
+
+!LIB.md
+
+!FILETREE.md
 
 !.gitignore
 
